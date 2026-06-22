@@ -1,0 +1,43 @@
+{
+  "accountName" : "one",
+  "members" : [ {
+    "username" : "Ricardo",
+    "password" : "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+  }, {
+    "username" : "Africa",
+    "password" : "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+  } ],
+  "debits" : [ {
+    "id" : "4eb59649-0c7c-47a8-88e1-f3632161d761",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 1,
+    "kind" : "PIT_STOP",
+    "why" : "Porque me gusta",
+    "status" : "PAID",
+    "createdDate" : "2026-06-22 17:18",
+    "paymentRequests" : [ {
+      "id" : "c5074da1-8644-43e9-8ee3-ad7d75ae5f1f",
+      "whyPaid" : "Pinchito escondido en el armario",
+      "status" : "REJECTED",
+      "rejectionReason" : "No hemos terminado como era debido",
+      "requestDate" : "2026-06-22 17:24"
+    }, {
+      "id" : "145b74e0-8920-4307-92fe-b94cdaa439d5",
+      "whyPaid" : "Besititos en la playa",
+      "status" : "CONFIRMED",
+      "rejectionReason" : null,
+      "requestDate" : "2026-06-22 17:26"
+    } ]
+  }, {
+    "id" : "2db1cced-df9e-4de5-b101-5d80db97533e",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 1,
+    "kind" : "PIT_STOP",
+    "why" : "Porque me gusta mucho!",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-22 17:22",
+    "paymentRequests" : [ ]
+  } ]
+}
