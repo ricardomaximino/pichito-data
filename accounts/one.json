@@ -1,0 +1,113 @@
+{
+  "accountName" : "one",
+  "members" : [ {
+    "username" : "Ricardo",
+    "password" : "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+  }, {
+    "username" : "Africa",
+    "password" : "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+  } ],
+  "debits" : [ {
+    "id" : "2918bdcd-ad5d-4190-ad99-a5151b2bf4fe",
+    "fromUser" : "Ricardo",
+    "toUser" : "Africa",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "Tgghy",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-22 21:49",
+    "paymentRequests" : [ {
+      "id" : "3175ba67-b7b1-455a-81f7-c7e1f7e40999",
+      "whyPaid" : "Gggg",
+      "status" : "PENDING",
+      "rejectionReason" : null,
+      "requestDate" : "2026-06-22 21:50"
+    } ]
+  }, {
+    "id" : "d352983e-e0e6-4f06-bf2d-16fea36ac2a4",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "Gggg",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-22 21:49",
+    "paymentRequests" : [ {
+      "id" : "6c826834-b0ed-4b68-9f23-5d6f51a58b44",
+      "whyPaid" : "56yytghu",
+      "status" : "PENDING",
+      "rejectionReason" : null,
+      "requestDate" : "2026-06-22 21:52"
+    } ]
+  }, {
+    "id" : "28724598-f8a5-4aef-8a7d-917ad80cd7e1",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "Ggg",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-22 21:50",
+    "paymentRequests" : [ ]
+  }, {
+    "id" : "839d1eff-4668-42f5-8a9c-7fab496afa99",
+    "fromUser" : "Ricardo",
+    "toUser" : "Africa",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "Hhty",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-22 21:51",
+    "paymentRequests" : [ ]
+  }, {
+    "id" : "99636ebe-a090-4f61-bf20-749bda2ef8f4",
+    "fromUser" : "Ricardo",
+    "toUser" : "Africa",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "Thgy",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-22 21:51",
+    "paymentRequests" : [ ]
+  }, {
+    "id" : "7e8f2ca2-08ed-481e-b0eb-fea99021d418",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "Gggg",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-22 21:51",
+    "paymentRequests" : [ ]
+  }, {
+    "id" : "c9264265-bb26-4d27-b406-3d7c09c29543",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "Gggg",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-22 21:51",
+    "paymentRequests" : [ ]
+  }, {
+    "id" : "4850e336-751a-4e9b-b366-232e43eee13c",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "Ghhjhj",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-22 21:58",
+    "paymentRequests" : [ ]
+  }, {
+    "id" : "86e3a008-0da7-4ba7-875e-68d554d10766",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "Hjhvvh",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-22 21:59",
+    "paymentRequests" : [ ]
+  } ]
+}
