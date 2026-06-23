@@ -1,0 +1,51 @@
+{
+  "accountName" : "three",
+  "members" : [ {
+    "username" : "ricardo",
+    "password" : "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+  }, {
+    "username" : "africa",
+    "password" : "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+  } ],
+  "debits" : [ {
+    "id" : "bb5cf346-f264-47a0-a06e-312e676a77b6",
+    "fromUser" : "ricardo",
+    "toUser" : "africa",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "sdfsdf",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-23 09:09",
+    "paymentRequests" : [ ]
+  }, {
+    "id" : "a13b56c7-7fd8-4f47-aa4f-d86ca1118546",
+    "fromUser" : "ricardo",
+    "toUser" : "africa",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "sdfsdf",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-23 09:09",
+    "paymentRequests" : [ ]
+  }, {
+    "id" : "d8f130d1-716f-41ea-a118-dbc1616438af",
+    "fromUser" : "africa",
+    "toUser" : "ricardo",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "sdfsdfs",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-23 09:09",
+    "paymentRequests" : [ ]
+  }, {
+    "id" : "67e29993-1cd1-42e0-a87b-c1dd4e111df1",
+    "fromUser" : "africa",
+    "toUser" : "ricardo",
+    "quantity" : 1,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "sdfsd",
+    "status" : "PENDING",
+    "createdDate" : "2026-06-23 09:09",
+    "paymentRequests" : [ ]
+  } ]
+}
