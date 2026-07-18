@@ -27,5 +27,15 @@
     "status" : "PENDING",
     "createdDate" : "2026-07-18 19:10",
     "paymentRequests" : [ ]
+  }, {
+    "id" : "1a180f49-ac4e-49ff-aa56-1aa4b17fd281",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 1,
+    "kind" : "OFFICE_MEETING",
+    "why" : "Por ser mala en la fiesta",
+    "status" : "PENDING",
+    "createdDate" : "2026-07-18 19:11",
+    "paymentRequests" : [ ]
   } ]
 }
