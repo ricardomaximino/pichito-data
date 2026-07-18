@@ -37,5 +37,15 @@
     "status" : "PENDING",
     "createdDate" : "2026-07-18 19:11",
     "paymentRequests" : [ ]
+  }, {
+    "id" : "2085d535-7247-4a36-8c32-f83f79c0b7af",
+    "fromUser" : "Ricardo",
+    "toUser" : "Africa",
+    "quantity" : 3,
+    "kind" : "BACK_MASSAGE",
+    "why" : "Por el pircing",
+    "status" : "PENDING",
+    "createdDate" : "2026-07-18 19:13",
+    "paymentRequests" : [ ]
   } ]
 }
