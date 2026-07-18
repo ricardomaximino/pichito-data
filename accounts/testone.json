@@ -17,5 +17,15 @@
     "status" : "PENDING",
     "createdDate" : "2026-07-18 19:10",
     "paymentRequests" : [ ]
+  }, {
+    "id" : "9f30324d-440c-4797-a740-d75e7fc361d7",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 1,
+    "kind" : "PIT_STOP",
+    "why" : "Por estar muy buena limpiando los rodapies",
+    "status" : "PENDING",
+    "createdDate" : "2026-07-18 19:10",
+    "paymentRequests" : [ ]
   } ]
 }
