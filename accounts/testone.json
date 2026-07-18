@@ -7,5 +7,15 @@
     "username" : "Africa",
     "password" : "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
   } ],
-  "debits" : [ ]
+  "debits" : [ {
+    "id" : "9c0aac0f-3c2e-4500-ab6b-0c8f372a84b6",
+    "fromUser" : "Africa",
+    "toUser" : "Ricardo",
+    "quantity" : 2,
+    "kind" : "CHECKING_PLUMBING",
+    "why" : "Por las miradas de crocodilo",
+    "status" : "PENDING",
+    "createdDate" : "2026-07-18 19:10",
+    "paymentRequests" : [ ]
+  } ]
 }
